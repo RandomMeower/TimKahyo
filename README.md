@@ -15,10 +15,10 @@ I ❤️ doing random projects because I don't have any fixed interest in anythi
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on stuffs
-- 🌱 I’m currently learning Rust, JavaScript && Python
+- 🌱 I’m currently learning Rust, JavaScript & Python
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with gaining new knowledges
-- 💬 Ask me about anything except nsfw && private stuffs 
+- 💬 Ask me about anything except nsfw & private stuffs 
 - 📫 How to reach me: Kahyo#2292
 - 😄 Pronouns: mvp/ace (My country doesn't allow the use of pronouns so don't judge me)
 - ⚡ Fun fact: I like cats!
