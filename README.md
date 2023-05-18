@@ -1,5 +1,5 @@
 # Hi there, I'm Kahyo  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KahtKahyo) 
-![](https://github.com/KahtKahyo/KahtKahyo/blob/main/photo-1550745165-9bc0b252726fy.png)
+![](https://github.com/KahtKahyo/KahtKahyo/blob/master/photo-1550745165-9bc0b252726fy.png)
 
 I love doing random projects because I don't have any fixed interest in anything, but I hope that in the future I can contribute to open-source projects. I'm a really open minded person with almost no boundaries, tho i prefer people to be respectful towards me. 
 
