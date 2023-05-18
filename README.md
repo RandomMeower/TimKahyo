@@ -1,7 +1,7 @@
 # Hi there, I'm Kahyo  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KahtKahyo) 
 ![](https://github.com/KahtKahyo/KahtKahyo/blob/master/photo-1550745165-9bc0b252726fy.png)
 
-I love doing random projects because I don't have any fixed interest in anything, but I hope that in the future I can contribute to open-source projects. I'm a really open minded person with almost no boundaries, tho i prefer people to be respectful towards me. 
+I ❤️ doing random projects because I don't have any fixed interest in anything, but I hope that in the future I can contribute to open-source projects. I'm a really open minded person with almost no boundaries, tho I still prefer people to be respectful towards me. If you want to ask about anything feel free to contact me through my discord. I'm a newbie so don't expect too much from me. 
 
 [![](https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/graywhite/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/graywhite/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  
