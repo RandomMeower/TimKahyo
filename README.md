@@ -20,7 +20,7 @@ Here are some ideas to get you started: -->
 - 🤔 I’m looking for help with gaining new knowledges
 - 💬 Ask me about anything except nsfw && private stuffs 
 - 📫 How to reach me: Kahyo#2292
-- 😄 Pronouns: 
+- 😄 Pronouns: mvp/ace
 - ⚡ Fun fact: I like cats!
 
 ---
