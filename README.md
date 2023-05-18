@@ -4,7 +4,9 @@
 I love doing random projects because I don't have any fixed interest in anything, but I hope that in the future I can contribute to open-source projects. I'm a really open minded person with almost no boundaries, tho i prefer people to be respectful towards me. 
 
 [![](https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/graywhite/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/graywhite/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+ 
+ ---
+ 
 <!--
 **KahtKahyo/KahtKahyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
