@@ -15,7 +15,7 @@ I love doing random projects because I don't have any fixed interest in anything
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on stuffs
-- 🌱 I’m currently learning JavaScript && Python
+- 🌱 I’m currently learning Rust, JavaScript && Python
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with gaining new knowledges
 - 💬 Ask me about anything except nsfw && private stuffs 
