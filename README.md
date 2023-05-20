@@ -1,5 +1,5 @@
 # Hi there, i'm Kahyo [<img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/bongo-cat-transparent.gif' alt='bongo cat img' height='40'>](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![](https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/54f81331a9da88c623b96363fb0a4da1.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![](https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/l5fyltniipta1.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 I ❤️ doing random projects because I don't have any fixed interest in anything, but I hope that in the future I can contribute to open-source projects. I'm a really open minded person with almost no boundaries, tho I still prefer people to be respectful towards me. If you want to ask about anything feel free to contact me through my <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/png-transparent-discord-hd-logo.png' alt="discord" height="16">. I'm a noob and a newbie so don't expect too much from me. <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/anya-spy-x-family-anime-anya-crying.gif' height="16"> 
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with gaining new knowledges
 - 💬 Ask me about anything except nsfw & private stuffs 
-- <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/discord-logo-logodownload-download-logotipos-1.png' alt="discord logo" height="17"> How to reach me: Kahyo#2292
+- <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/discord-logo-logodownload-download-logotipos-1.png' alt="discord logo" height="18"> How to reach me: Kahyo#2292
 - 😄 Pronouns: mvp/ace (My country doesn't allow the use of pronouns so don't judge me)
 - ⚡ Fun fact: I like cats!
 ---
