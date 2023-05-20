@@ -14,7 +14,7 @@ I ❤️ doing random projects because I don't have any fixed interest in anythi
 - <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/f0879ad3-6353-41d5-ba62-af825a9623d9' alt='🤝' height='25'> I’m looking to collaborate on open source projects
 - <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/c999ce11-6f86-40f2-a652-089d4fc651dd' alt='❤️' height='25'> I’m looking for help with gaining new knowledges
 - <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/d347f669-8914-428f-990c-ffc0be4b1090' alt='🗨️' height='25'> Ask me about anything except nsfw & private stuffs 
-- <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/discord-logo-logodownload-download-logotipos-1.png' alt="discord logo" height="25"> How to reach me: **Kahyo#2292**
+- <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/e255a1ce-25aa-4178-bf34-6b45314ca15b' alt="discord logo" height="25"> How to reach me: **Kahyo#2292**
 - <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/fe40c2f9-548a-4e67-862e-400a0a02b36f' alt='😊' height="25"> Pronouns: mvp/ace
 - <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/1244d666-e2a6-4d57-b161-5389362a7e8b' alt='✨' height='25'> Fun fact: **I like cats!**
 
