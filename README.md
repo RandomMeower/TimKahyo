@@ -8,9 +8,9 @@ I ❤️ doing random projects because I don't have any fixed interest in anythi
  ---
 
 ### A thing or two about me: 
-- <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/2019185_d1e5e.gif' alt='👾' height='25'> You can call me **KahtKa** or **Kahyo** 
-- <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/cat-cute.gif' alt='⚒️' height='25'>  I’m currently working on stuffs
-- <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/3a5a1e9d-3a84-4653-86bb-ae89ab4e6b02' alt='🤓' height='25'> I’m currently learning [Rust](https://www.youtube.com/watch?v=MsocPEZBd-M), [JavaScript](https://www.youtube.com/watch?v=zQnBQ4tB3ZA) & [Python](https://www.youtube.com/watch?v=V4gGJ7XXlC0)
+- <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/2019185_d1e5e.gif' alt='👾' height='25'>    You can call me **KahtKa** or **Kahyo** 
+- <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/cat-cute.gif' alt='⚒️' height='25'>     I’m currently working on stuffs
+- <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/3a5a1e9d-3a84-4653-86bb-ae89ab4e6b02' alt='🤓' height='25'>    I’m currently learning [Rust](https://www.youtube.com/watch?v=MsocPEZBd-M), [JavaScript](https://www.youtube.com/watch?v=zQnBQ4tB3ZA) & [Python](https://www.youtube.com/watch?v=V4gGJ7XXlC0)
 - <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/f0879ad3-6353-41d5-ba62-af825a9623d9' alt='🤝' height='25'> I’m looking to collaborate on open source projects
 - <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/f97d8be8-9b94-42e4-bc46-4365404bdd87' alt='❤️' height='25'> I’m looking for help with gaining new knowledges
 - <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/a6e4dc1c-a61e-4647-ac59-00a5d995d1ae' alt='🗨️' height='25'> Ask me about anything except nsfw & private stuffs 
