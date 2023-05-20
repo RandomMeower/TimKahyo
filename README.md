@@ -10,13 +10,13 @@ I ❤️ doing random projects because I don't have any fixed interest in anythi
 ### A thing or two about me: 
 - <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/2019185_d1e5e.gif' height='17'> You can call me **KahtKa** or **Kahyo** 
 - 🔭 I’m currently working on stuffs
-- 🌱 I’m currently learning Rust, JavaScript & Python
+- 🌱 I’m currently learning Go, Rust, JavaScript & Python
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with gaining new knowledges
 - 💬 Ask me about anything except nsfw & private stuffs 
-- <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/discord-logo-logodownload-download-logotipos-1.png' alt="discord logo" height="18"> How to reach me: Kahyo#2292
+- <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/discord-logo-logodownload-download-logotipos-1.png' alt="discord logo" height="18"> How to reach me: **Kahyo#2292**
 - 😄 Pronouns: mvp/ace (My country doesn't allow the use of pronouns so don't judge me)
-- ⚡ Fun fact: I like cats!
+- ⚡ Fun fact: **I like cats!**
 
 ---
 
