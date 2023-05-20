@@ -13,7 +13,7 @@ I ❤️ doing random projects because I don't have any fixed interest in anythi
 ---
 
 Here are some ideas to get you started: -->
-- [<img src=""] You can call me KahtKa or Kahyo 
+- [<img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/oshi-no-ko-kana-arima.gif' height='10'] You can call me KahtKa or Kahyo 
 - 🔭 I’m currently working on stuffs
 - 🌱 I’m currently learning Rust, JavaScript & Python
 - 👯 I’m looking to collaborate on open source projects
