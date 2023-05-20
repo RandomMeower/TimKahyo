@@ -13,10 +13,10 @@ I ❤️ doing random projects because I don't have any fixed interest in anythi
 - 🤓 I’m currently learning [Rust](https://www.youtube.com/watch?v=MsocPEZBd-M), [JavaScript](https://www.youtube.com/watch?v=zQnBQ4tB3ZA) & [Python](https://www.youtube.com/watch?v=V4gGJ7XXlC0)
 - 🤝 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with gaining new knowledges
-- <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/d347f669-8914-428f-990c-ffc0be4b1090' alt='🗨️' height='17'> Ask me about anything except nsfw & private stuffs 
+- <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/d347f669-8914-428f-990c-ffc0be4b1090' alt='🗨️' height='18'> Ask me about anything except nsfw & private stuffs 
 - <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/discord-logo-logodownload-download-logotipos-1.png' alt="discord logo" height="18"> How to reach me: **Kahyo#2292**
 - 😄 Pronouns: mvp/ace (My country doesn't allow the use of pronouns so don't judge me)
-- <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/1244d666-e2a6-4d57-b161-5389362a7e8b' alt='✨' height='18'> Fun fact: **I like cats!**
+- <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/1244d666-e2a6-4d57-b161-5389362a7e8b' alt='✨' height='20'> Fun fact: **I like cats!**
 
 ---
 
