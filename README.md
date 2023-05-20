@@ -15,7 +15,7 @@ I ❤️ doing random projects because I don't have any fixed interest in anythi
 - 🤔 I’m looking for help with gaining new knowledges
 - <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/d347f669-8914-428f-990c-ffc0be4b1090' alt='🗨️' height='18'> Ask me about anything except nsfw & private stuffs 
 - <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/discord-logo-logodownload-download-logotipos-1.png' alt="discord logo" height="18"> How to reach me: **Kahyo#2292**
-- 😄 Pronouns: mvp/ace (My country doesn't allow the use of pronouns so don't judge me)
+- <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/kisspng-pixel-art-image-illustration-gif-transparent-saturn-pixel-transparent-amp-png-cli-5c9131c1abf730.7416261015530193297044.jpg' alt='' height="19"> Pronouns: mvp/ace
 - <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/1244d666-e2a6-4d57-b161-5389362a7e8b' alt='✨' height='20'> Fun fact: **I like cats!**
 
 ---
