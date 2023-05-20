@@ -5,7 +5,7 @@ I ❤️ doing random projects because I don't have any fixed interest in anythi
 
 ---
 
-<img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/716vygnoaiwa1.gif' height="40"> I'm a noob and a newbie so don't expect too much from me. 
+I'm a noob and a newbie so don't expect too much from me. <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/716vygnoaiwa1.gif' height="64"> 
 
 ---
 
