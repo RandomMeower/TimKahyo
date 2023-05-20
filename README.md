@@ -8,8 +8,8 @@ I ❤️ doing random projects because I don't have any fixed interest in anythi
  ---
 
 ### A thing or two about me: 
-- <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/2019185_d1e5e.gif' alt='👾' height='17'> You can call me **KahtKa** or **Kahyo** 
-- <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/cat-cute.gif' alt='⚒️' height='17'> I’m currently working on stuffs
+- <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/2019185_d1e5e.gif' alt='👾' height='18'> You can call me **KahtKa** or **Kahyo** 
+- <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/cat-cute.gif' alt='⚒️' height='18'>  I’m currently working on stuffs
 - 🤓 I’m currently learning [Rust](https://www.youtube.com/watch?v=MsocPEZBd-M), [JavaScript](https://www.youtube.com/watch?v=zQnBQ4tB3ZA) & [Python](https://www.youtube.com/watch?v=V4gGJ7XXlC0)
 - 🤝 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with gaining new knowledges
