@@ -1,13 +1,8 @@
 # Hi there, i'm Kahyo [<img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/bongo-cat-transparent.gif' alt='bongo cat img' height='40'>](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![](https://github.com/KahtKahyo/KahtKahyo/blob/master/54f81331a9da88c623b96363fb0a4da1.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-I ❤️ doing random projects because I don't have any fixed interest in anything, but I hope that in the future I can contribute to open-source projects. I'm a really open minded person with almost no boundaries, tho I still prefer people to be respectful towards me. If you want to ask about anything feel free to contact me through my discord. 
+I ❤️ doing random projects because I don't have any fixed interest in anything, but I hope that in the future I can contribute to open-source projects. I'm a really open minded person with almost no boundaries, tho I still prefer people to be respectful towards me. If you want to ask about anything feel free to contact me through my discord. I'm a noob and a newbie so don't expect too much from me. <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/716vygnoaiwa1.gif' height="18"> 
 
----
-
-## I'm a noob and a newbie so don't expect too much from me. <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/716vygnoaiwa1.gif' height="64"> 
-
----
 
 [![](https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/graywhite/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/graywhite/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  
