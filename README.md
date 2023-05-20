@@ -1,4 +1,4 @@
-# Hi there, i'm Kahyo [<img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/bongo-cat-pixel-doodle.gif' alt='bongo cat img' height='40'>](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+# Hi there, i'm Kahyo [<img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/bongo-cat-transparent.gif' alt='bongo cat img' height='40'>](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![](https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/nprhx6w5y-bannerferris-gif-7z58xh.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 I ❤️ doing random projects because I don't have any fixed interest in anything, but I hope that in the future I can contribute to open-source projects. I'm a really open minded person with almost no boundaries, tho I still prefer people to be respectful towards me. If you want to ask about anything feel free to contact me through my <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/png-transparent-discord-hd-logo.png' alt="discord" height="16">. I'm a noob and a newbie so don't expect too much from me. <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/anya-spy-x-family-anime-anya-crying.gif' height="16"> 
@@ -8,7 +8,7 @@ I ❤️ doing random projects because I don't have any fixed interest in anythi
  
  ---
 
-Here are some ideas to get you started: -->
+A thing or two about me: 
 - <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/2019185_d1e5e.gif' height='17'> **You can call me KahtKa or Kahyo** 
 - 🔭 I’m currently working on stuffs
 - 🌱 I’m currently learning Rust, JavaScript & Python
