@@ -1,5 +1,5 @@
 # Hi there, I'm Kahyo  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KahtKahyo) 
-[![](https://github.com/KahtKahyo/KahtKahyo/blob/master/photo-1550745165-9bc0b252726fy.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![](https://github.com/KahtKahyo/KahtKahyo/blob/master/e2aec645e3f805bfeef5468bc9bf3a34.gif](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 I ❤️ doing random projects because I don't have any fixed interest in anything, but I hope that in the future I can contribute to open-source projects. I'm a really open minded person with almost no boundaries, tho I still prefer people to be respectful towards me. If you want to ask about anything feel free to contact me through my discord. I'm a newbie so don't expect too much from me. 
 
