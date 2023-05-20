@@ -7,8 +7,7 @@ I ❤️ doing random projects because I don't have any fixed interest in anythi
  
  ---
 
-### A thing or two about me: 
-| <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/57cf5ba1-00fb-47d8-90c2-397eb15011c6' alt='🤖' height='28'> | *★,°*:.☆(￣▽￣)/$:*.°★* 。|
+| | A thing or two about me:|
 | :---: | :--- |
 | <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/813d3ef0-4197-4809-8d56-de214301d857' alt='👾' height='28'> | You can call me **KahtKa** or **Kahyo** |
 | <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/cat-cute.gif' alt='⚒️' height='28'> | I’m currently working on stuffs |
