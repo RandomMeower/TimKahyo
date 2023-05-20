@@ -20,7 +20,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with gaining new knowledges
 - 💬 Ask me about anything except nsfw & private stuffs 
-- 📫 How to reach me: Kahyo#2292
+- <img='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/discord-logo-logodownload-download-logotipos-1.png, alt="discord logo" height="17"> How to reach me: Kahyo#2292
 - 😄 Pronouns: mvp/ace (My country doesn't allow the use of pronouns so don't judge me)
 - ⚡ Fun fact: I like cats!
 ---
