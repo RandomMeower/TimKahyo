@@ -1,4 +1,4 @@
-# Hi there, I'm Kahyo  [<img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/bongo-cat-transparent.gif' alt='github' height='40'>](https://github.com/KahtKahyo) 
+[<img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/bongo-cat-transparent.gif' alt='github' height='40'>](https://github.com/KahtKahyo) <h1>Hi there, I'm kaho</h1>
 [![](https://github.com/KahtKahyo/KahtKahyo/blob/master/54f81331a9da88c623b96363fb0a4da1.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 I ❤️ doing random projects because I don't have any fixed interest in anything, but I hope that in the future I can contribute to open-source projects. I'm a really open minded person with almost no boundaries, tho I still prefer people to be respectful towards me. If you want to ask about anything feel free to contact me through my discord. I'm a newbie so don't expect too much from me. 
