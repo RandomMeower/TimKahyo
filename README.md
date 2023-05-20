@@ -7,8 +7,8 @@ I ❤️ doing random projects because I don't have any fixed interest in anythi
  
  ---
 
-#### A thing or two about me: 
-- <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/2019185_d1e5e.gif' height='17'> **You can call me KahtKa or Kahyo** 
+### A thing or two about me: 
+- <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/2019185_d1e5e.gif' height='17'> You can call me **KahtKa** or **Kahyo** 
 - 🔭 I’m currently working on stuffs
 - 🌱 I’m currently learning Rust, JavaScript & Python
 - 👯 I’m looking to collaborate on open source projects
