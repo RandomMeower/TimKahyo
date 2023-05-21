@@ -25,7 +25,4 @@ I ❤️ doing random projects because I don't have any fixed interest in anythi
 
 [![](https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/codeSTACKr/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/codeSTACKr/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
----
-
-<img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/4441966.png' alt='odin project' height='30'>  <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/fcc_primary_small.jpg' alt='freecodecamp' height='30'>  <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/rust-social.jpg' alt='rust' height='30'>  <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/2048px-Coursera-Logo_600x600.svg.png' alt='coursera' height='30'> 
  
