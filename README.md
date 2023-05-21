@@ -2,7 +2,7 @@
 [![](https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/nprhx6w5y-bannerferris-gif-7z58xh.gif)](https://www.youtube.com/watch?v=DLzxrzFCyOs)
 
 I ❤️ doing random projects because I don't have any fixed interest in anything, but I hope that in the future I can contribute to open-source projects 🤖. I'm a really open minded person with almost no boundaries ✨, tho I still prefer people to be respectful towards me 😊. If you want to ask about anything feel free to contact me through my <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/png-transparent-discord-hd-logo.png' alt="discord" height="16">. Keep in mind that I'm a noob and a newbie so don't expect too much from me 🥹.
-| <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/4441966.png' alt='odin project' height='30'> | <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/fcc_primary_small.jpg' alt='freecodecamp' height='30'> | <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/rust-social.jpg' alt='rust' height='30'> | <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/2048px-Coursera-Logo_600x600.svg.png' alt='coursera' height='30'> | 
+
 [![](https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  
  ---
@@ -25,5 +25,5 @@ I ❤️ doing random projects because I don't have any fixed interest in anythi
 
 [![](https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/codeSTACKr/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/codeSTACKr/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
+<img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/4441966.png' alt='odin project' height='30'>  <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/fcc_primary_small.jpg' alt='freecodecamp' height='30'>  <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/rust-social.jpg' alt='rust' height='30'>  <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/2048px-Coursera-Logo_600x600.svg.png' alt='coursera' height='30'> 
  
