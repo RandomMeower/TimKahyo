@@ -9,7 +9,7 @@ I ❤️ doing random projects because I don't have any fixed interest in anythi
 
 | STUFF | ABOUT ME:|
 | :---: | :--- |
-| <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/813d3ef0-4197-4809-8d56-de214301d857' alt='👾' height='28'> | You can call me **KahtKa** or **Kahyo** |
+| <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/ebada45b-eba3-4ed8-8cd5-3929c5b0014d' alt='👾' height='28'> | You can call me **KahtKa** or **Kahyo** |
 | <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/cat-cute.gif' alt='⚒️' height='28'> | I’m currently working on stuffs |
 | <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/eb536798-d956-4349-9c6e-4e84932f04e1' alt='🤓' height='28'> | I’m currently learning [Rust](https://www.youtube.com/watch?v=MsocPEZBd-M), [JavaScript](https://www.youtube.com/watch?v=zQnBQ4tB3ZA) & [Python](https://www.youtube.com/watch?v=V4gGJ7XXlC0) |
 | <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/8cda3aac-6742-450d-aac3-2a4a594a3758' alt='🤝' height='28'> | I’m looking to collaborate on open source projects|
