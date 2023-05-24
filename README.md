@@ -4,11 +4,9 @@
 I ❤️ doing random projects because I don't have any fixed interest in anything, but I hope that in the future I can contribute to open-source projects 🤖. I'm a really open minded person with almost no boundaries ✨, tho I still prefer people to be respectful towards me 😊. If you want to ask about anything feel free to contact me through my discord💬. Keep in mind that I'm a noob and a newbie so don't expect too much from me 🥹.
 <p align="left"><img src="https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/f2726893541a7446b988ba7743c5296c_w200.gif" height="40"></p>
    
-<p align="center"><img src="https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg"><img src="https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg">        <img src="https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg"></p>
 
-[![](https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
- 
- <p align="right"> <img src="https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/tumblr_mauaez2COG1rfjowdo1_500.gif" height="40"></p>
+<p align="right"> <img src="https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/tumblr_mauaez2COG1rfjowdo1_500.gif" height="40"></p>
  
  ---
 
