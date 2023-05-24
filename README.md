@@ -5,11 +5,11 @@ I ❤️ doing random projects because I don't have any fixed interest in anythi
 
 ---
 
-<p align="left"><img src="https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/f2726893541a7446b988ba7743c5296c_w200.gif" height="40"></p>
+<p align="left"><img src="https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/f2726893541a7446b988ba7743c5296c_w200.gif" height="36"></p>
    
 <p align="center"><img src="https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg">        <img src="https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg"></p>
 
-<p align="right"> <img src="https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/tumblr_mauaez2COG1rfjowdo1_500.gif" height="40"></p>
+<p align="right"> <img src="https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/tumblr_mauaez2COG1rfjowdo1_500.gif" height="36"></p>
  
  ---
 
