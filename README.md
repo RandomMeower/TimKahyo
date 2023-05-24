@@ -27,7 +27,7 @@ I ❤️ doing random projects because I don't have any fixed interest in anythi
 
 ---
 
-<p align="center"><img src="https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/codeSTACKr/0-profile-details.svg"></p>)
+<p align="center"><img src="https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/codeSTACKr/0-profile-details.svg"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/codeSTACKr/3-stats.svg">     <img src="https://raw.githubusercontent.com/KahtKahyo/KahtKahyo/master/profile-summary-card-output/codeSTACKr/4-productive-time.svg"></p>
 
 
