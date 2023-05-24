@@ -13,7 +13,7 @@ I ❤️ doing random projects because I don't have any fixed interest in anythi
  
  ---
 
-
+| STUFF | ABOUT ME:|
 | :---: | :--- |
 | <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/ebada45b-eba3-4ed8-8cd5-3929c5b0014d' alt='👾' height='30'> | You can call me **KahtKa** or **Kahyo** |
 | <img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/cat-cute.gif' alt='⚒️' height='28'> | I’m currently working on stuffs |
