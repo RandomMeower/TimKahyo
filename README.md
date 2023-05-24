@@ -37,4 +37,4 @@ I ❤️ doing random projects because I don't have any fixed interest in anythi
 
 ---
 
- <p align="right"><img src="https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/6ee8071fdcbbc3f6a0190808013aaa47.gif" height="50"></p>
+ <p align="right"><img src="https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/6ee8071fdcbbc3f6a0190808013aaa47.gif" height="80"></p>
