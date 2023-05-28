@@ -27,7 +27,7 @@ I ❤️ doing random projects because I don't have any fixed interest in anythi
 | <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/fe40c2f9-548a-4e67-862e-400a0a02b36f' alt='😊' height="30"> | Pronouns: mvp/ace |
 | <img src='https://github.com/KahtKahyo/KahtKahyo/assets/87621187/1244d666-e2a6-4d57-b161-5389362a7e8b' alt='✨' height='30'> | Fun fact: **I like cats!** |
    
-<img src="https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/Screenshot_20230528_191629.jpg">
+<img src="https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/Screenshot_20230528_191629.jpg" height="200">
 </div>
 
 
