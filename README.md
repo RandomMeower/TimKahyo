@@ -38,9 +38,4 @@ I ❤️ doing random projects because I don't have any fixed interest in anythi
 
 ---
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KahtKahyo)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
-
  <p align="right"><img src="https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/6ee8071fdcbbc3f6a0190808013aaa47.gif" height="105"></p>
