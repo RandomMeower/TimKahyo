@@ -1,5 +1,4 @@
 # Hi there, i'm Kahyo [<img src='https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/bongo-cat-transparent.gif' alt='bongo cat img' height='40'>](https://www.youtube.com/watch?v=hvL1339luv0) 
-##### ⚡ I'm back at learning C/C++
 [![](https://github.com/KahtKahyo/KahtKahyo/blob/master/Images/nprhx6w5y-bannerferris-gif-7z58xh.gif)](https://www.youtube.com/watch?v=DLzxrzFCyOs)
 
 ---
