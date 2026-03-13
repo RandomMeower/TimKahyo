@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/RandomMeower/TimKahyo/master/profile-summary-card-output/graywhite/4-productive-time.svg)
+```
+
+    
